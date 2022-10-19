@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "Name": "saksham",
+      "Age": "20",
+      "Email": "saksham.somra@gmail.com"
+    },
+    {
+      "id": 2,
+      "Name": "aditya",
+      "Age": "50",
+      "Email": "aditya@gmail.com"
+    },
+    {
+      "id": 3,
+      "Name": "hello",
+      "Age": "40",
+      "Email": "helloa@gmail.com"
+    }
+  ]
+}
+

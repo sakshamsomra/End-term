@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "umesh",
+      "age": "43",
+      "email": "umesh@gmail.com",
+      "phone": "8054432397",
+      "id": 14
+    },
+    {
+      "name": "rahul",
+      "age": "43",
+      "email": "rahul@gmail.com",
+      "phone": "151515155111",
+      "id": 15
+    },
+    {
+      "name": "nishant",
+      "age": "30",
+      "email": "nishu@gmail.com",
+      "phone": "9647486947",
+      "id": 16
+    },
+    {
+      "name": "hello",
+      "age": "20",
+      "email": "mansi@gmail.com",
+      "phone": "+919646486947",
+      "id": 17
+    }
+  ]
+}
